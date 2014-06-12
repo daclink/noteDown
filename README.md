@@ -3,7 +3,7 @@ noteDown
 
 Learning C++ and creating a markdown language for taking notes in class.
 
-Maybe I should just steal github's markdown...
+Maybe I should just steal github's markdown
 
 
 reasons
