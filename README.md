@@ -17,3 +17,4 @@ Maybe I should just steal github's markdown
 * [GitHub Markdown Cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Markdown Basics](https://help.github.com/articles/markdown-basics)
 * [YAML](http://www.yaml.org)
+* [C++ io basics](http://www.cplusplus.com/doc/tutorial/files/)
