@@ -7,9 +7,9 @@ Maybe I should just steal github's markdown
 
 
 ### reasons
- _Pros_        | _Cons_            
--------------------------------
-already done   | Won't learn anything
+| _Pros_| _Cons_|
+| --- | --- |
+| already done   | Won't learn anything |
 
 
 
@@ -27,5 +27,5 @@ hmm...
 2. 2
 3. tres
 
-- [] Fix the table on this readme
-  - [] figure out more about markdown
+- [x] Fix the table on this readme
+  - [ ] figure out more about markdown
