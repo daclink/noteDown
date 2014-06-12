@@ -6,10 +6,9 @@ Learning C++ and creating a markdown language for taking notes in class.
 Maybe I should just steal github's markdown...
 
 
- ### reasons
-|:------------:|:----------------:|
+reasons
 |_Pros_        |_Cons_            |
-|--------------|------------------|
+|:------------:|:----------------:|
 |already done|Won't learn anything|
 
 
